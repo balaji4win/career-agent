@@ -1,0 +1,65 @@
+candidate:
+  target_roles:
+    - Director of Engineering
+    - Senior Director of Engineering
+    - Engineering Director
+    - Senior Engineering Manager
+    - Engineering Manager
+    - Principal Engineer
+    - Staff Engineer
+    - Principal Software Engineer
+    - Embedded Software Architect
+    - Firmware Architect
+    - Platform Software Engineer
+
+  domains:
+    - Semiconductor
+    - Embedded Systems
+    - Automotive Software
+    - Platform Software
+    - Firmware
+    - Linux
+    - Android
+    - AI Hardware
+    - AI Accelerators
+
+  leadership:
+    - Engineering leadership
+    - Global engineering teams
+    - Organization building
+    - Technical strategy
+    - Program execution
+    - Cross-functional leadership
+    - Customer engagement
+
+  technical:
+    - Linux Kernel
+    - Linux Device Drivers
+    - BSP
+    - Firmware
+    - Embedded C
+    - Android
+    - AOSP
+    - Android Framework
+    - HAL
+    - Android Automotive
+    - AAOS
+    - Automotive Cockpit
+    - USB
+    - PCIe
+    - Networking
+    - Storage
+    - Virtualization
+    - QNX
+    - ACRN
+    - Zephyr
+    - ARM
+    - RISC-V
+
+  additional:
+    - AI accelerator
+    - AI hardware
+    - Hardware software co-design
+    - Performance optimization
+    - Power optimization
+    - Open source
